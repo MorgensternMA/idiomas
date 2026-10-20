@@ -1,0 +1,1056 @@
+{
+  "version": "fd159cba28e1",
+  "languages": [
+    {
+      "code": "en",
+      "name": "Inglés",
+      "nativeName": "English",
+      "intro": "Ya entendés bastante: el objetivo acá es **producir**. Cada lección termina\ncon algo para decir o escribir fuera del teléfono.\n",
+      "groups": [
+        {
+          "id": "presente",
+          "title": "Presente"
+        },
+        {
+          "id": "pasado",
+          "title": "Pasado"
+        },
+        {
+          "id": "perfecto",
+          "title": "Tiempos perfectos"
+        },
+        {
+          "id": "futuro",
+          "title": "Futuro"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "present-simple",
+          "title": "Present simple",
+          "group": "presente",
+          "order": 1,
+          "level": "A1",
+          "summary": "Hábitos, rutinas y cosas que son siempre así.",
+          "body": "## Cuándo se usa\n\n- **Hábitos y rutinas:** *I work from home on Fridays.*\n- **Cosas que son verdad en general:** *Water boils at 100 degrees.*\n- **Gustos y estados:** *She likes jazz. I don't know.*\n\nSi en español decís \"yo trabajo\" en el sentido de \"es lo que hago normalmente\", en inglés va present simple.\n\n## Cómo se forma\n\n| | Afirmativa | Negativa | Pregunta |\n|---|---|---|---|\n| I / you / we / they | I **work** | I **don't** work | **Do** you work? |\n| he / she / it | she **works** | she **doesn't** work | **Does** she work? |\n\nLa única terminación es la **-s de tercera persona**. Es lo que más se olvida al hablar.\n\n- Verbos en *-s, -sh, -ch, -x, -o* → **-es**: *watches, goes, does*.\n- Consonante + *y* → **-ies**: *study → studies*. (Vocal + *y* queda igual: *plays*.)\n- *have → has*.\n\nCon **does/doesn't** el verbo vuelve a la base: *Does she work?* — nunca *Does she works?*\n\n## Palabras de frecuencia\n\n*always, usually, often, sometimes, rarely, never*\n\nVan **antes del verbo principal** pero **después de *be***:\n\n- *I **usually** get up at seven.*\n- *I'm **usually** tired on Mondays.*\n\n## Errores típicos\n\n- *She work in a bank.* → *She **works** in a bank.*\n- *I am agree.* → *I agree.* (*agree* es verbo, no adjetivo.)\n- *Do you like it? — Yes, I like.* → *Yes, I **do**.* / *Yes, I like **it**.*"
+        },
+        {
+          "id": "present-continuous",
+          "title": "Present continuous",
+          "group": "presente",
+          "order": 2,
+          "level": "A1",
+          "summary": "Lo que pasa ahora o en esta etapa, y planes ya arreglados.",
+          "body": "## Cuándo se usa\n\n- **Ahora mismo:** *I'm cooking, call me later.*\n- **Algo temporal, \"estos días\":** *I'm reading a book about Japan.* (no necesariamente en este segundo)\n- **Planes ya arreglados, con fecha:** *I'm meeting Ana on Saturday.* (ver *Futuro*)\n\n## Cómo se forma\n\n**am / is / are + verbo-ing**\n\n| | Afirmativa | Negativa | Pregunta |\n|---|---|---|---|\n| I | I**'m** work**ing** | I**'m not** working | **Am** I working? |\n| he / she / it | she**'s** working | she **isn't** working | **Is** she working? |\n| you / we / they | they**'re** working | they **aren't** working | **Are** they working? |\n\nOrtografía del *-ing*:\n\n- *e* final se cae: *make → making*.\n- Consonante-vocal-consonante corta duplica: *run → running, sit → sitting*.\n- *-ie → -ying*: *lie → lying*.\n\n## Verbos que casi nunca van en continuo\n\nLos que describen estados y no acciones: *know, like, love, want, need, understand, believe, seem, own*.\n\n- *I'm knowing the answer.* → *I **know** the answer.*\n- *I'm wanting a coffee.* → *I **want** a coffee.*\n\n## Presente simple vs. continuo\n\n| Present simple | Present continuous |\n|---|---|\n| *I work in an office.* (siempre) | *I'm working from home this week.* (por ahora) |\n| *She drives to work.* | *She's driving, she can't answer.* |"
+        },
+        {
+          "id": "past-simple",
+          "title": "Past simple",
+          "group": "pasado",
+          "order": 3,
+          "level": "A1",
+          "summary": "Algo terminado en un momento del pasado que está claro.",
+          "body": "## Cuándo se usa\n\nPara acciones **terminadas** en un momento del pasado que se dice o se sobreentiende:\n\n- *I **saw** her yesterday.*\n- *We **lived** in Córdoba for two years.* (ya no vivimos ahí)\n- *When I was a kid, I **played** football every day.*\n\nEquivale tanto a \"comí\" como, muchas veces, a \"comía\" (para hábitos también existe *used to*: *I used to play football*).\n\n## Cómo se forma\n\n**Regulares:** base + **-ed** → *work → worked, live → lived, stop → stopped, study → studied*.\n\n**Irregulares:** hay que aprenderlos. Los más usados:\n\n| Base | Pasado | | Base | Pasado |\n|---|---|---|---|---|\n| be | was / were | | get | got |\n| have | had | | make | made |\n| do | did | | take | took |\n| go | went | | come | came |\n| say | said | | see | saw |\n| think | thought | | buy | bought |\n\n**Negativa y pregunta:** con **did / didn't**, y el verbo vuelve a la base.\n\n- *I **didn't go**.* — nunca *I didn't went.*\n- ***Did** you **see** it?* — nunca *Did you saw it?*\n\n*Be* es la excepción: *I wasn't there. Were you there?*\n\n## Pronunciación del -ed\n\n- /t/ después de sonidos sordos: *worked, stopped, watched*.\n- /d/ después de sonidos sonoros: *lived, played, called*.\n- /ɪd/ (sílaba extra) solo después de **t** o **d**: *wanted, needed*.\n\nError muy común: decir *work-ed* con dos sílabas. Es *workt*."
+        },
+        {
+          "id": "present-perfect",
+          "title": "Present perfect",
+          "group": "perfecto",
+          "order": 4,
+          "level": "A2",
+          "summary": "El pasado que todavía importa ahora. La gran trampa para rioplatenses.",
+          "body": "## El problema\n\nEn Argentina casi no usamos \"he comido\": decimos \"ya comí\", \"nunca fui\", \"viví acá toda la vida\". Por eso tendemos a usar **past simple para todo**, y en inglés suena raro.\n\nLa pregunta clave es: **¿importa el momento exacto, o importa cómo está la cosa ahora?**\n\n## Cómo se forma\n\n**have / has + participio** (la tercera columna: *seen, done, been, gone, eaten, lived*).\n\n- *I**'ve finished**.* / *She **hasn't called**.* / ***Have** you **eaten**?*\n\n## Cuándo se usa\n\n**1. Experiencias de la vida, sin decir cuándo**\n\n- *I've been to Brazil twice.*\n- *Have you ever tried natto? — No, never.*\n\n**2. Algo que empezó en el pasado y sigue** (con *for* y *since*)\n\n- *I've lived here **for** six years.* (duración)\n- *I've lived here **since** 2020.* (punto de inicio)\n- *I live here since 2020* es un error muy común: en español usamos presente (\"vivo acá desde 2020\"), en inglés no.\n\n**3. Algo reciente con efecto ahora** (*just, already, yet*)\n\n- *I've just arrived.* (recién llegué)\n- *I've already paid.* (ya pagué, está pago)\n- *Have you finished **yet**? / I haven't finished **yet**.*\n\n## Contra el past simple\n\nSi aparece un **momento terminado**, va past simple:\n\n| Present perfect | Past simple |\n|---|---|\n| *I've seen that movie.* | *I saw that movie **last week**.* |\n| *She's lost her keys.* (no las tiene) | *She lost her keys **yesterday**, but found them.* |\n| *Have you ever been to Japan?* | *When **did** you go to Japan?* |\n\nPalabras que piden past simple: *yesterday, last week, in 2019, ago, when I was...*\n\nPalabras que suelen ir con present perfect: *ever, never, already, yet, just, so far, this year* (si el año no terminó).\n\n## Been vs. gone\n\n- *She's **been** to Rome.* → fue y volvió.\n- *She's **gone** to Rome.* → se fue y está allá."
+        },
+        {
+          "id": "future",
+          "title": "Futuro: will, going to y presente continuo",
+          "group": "futuro",
+          "order": 5,
+          "level": "A2",
+          "summary": "Tres formas de hablar del futuro según qué tan decidido está.",
+          "body": "## La idea\n\nEl inglés no tiene un solo futuro. Elegís según **cuándo y cómo** lo decidiste.\n\n| Forma | Para qué | Ejemplo |\n|---|---|---|\n| **will** | Decisión en el momento, promesas, predicciones | *I'll get it!* (suena el timbre) |\n| **going to** | Plan ya decidido, o algo que se ve venir | *I'm going to study Japanese this year.* |\n| **present continuous** | Plan arreglado, con día/hora/persona | *I'm flying to São Paulo on Monday.* |\n\n## Will\n\n**will + base** (contracción *'ll*, negativa *won't*)\n\n- *It's cold. — I'll close the window.* (lo decido ahora)\n- *I won't tell anyone.* (promesa)\n- *I think it'll rain.* (opinión sobre el futuro)\n\n## Going to\n\n**am / is / are + going to + base**\n\n- *We're going to move next year.* (ya lo charlamos y decidimos)\n- *Look at those clouds. It's going to rain.* (hay evidencia ahora)\n\nEn el habla rápida suena *gonna*: *I'm gonna call her.* Está bien para hablar, no para escribir formal.\n\n## Presente continuo para el futuro\n\nCuando ya está en la agenda:\n\n- *I'm seeing the dentist tomorrow at five.*\n- *What are you doing this weekend?* — la pregunta más natural para \"¿qué hacés el finde?\"\n\n## Error típico\n\nUsar *will* para planes ya decididos: *Tomorrow I will go to my parents' house* no está mal, pero suena a decisión tomada en ese instante. Lo natural es *I'm going to my parents' tomorrow.*"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "en-routine",
+          "title": "Tu rutina, en voz alta",
+          "order": 1,
+          "level": "A1–A2",
+          "summary": "Present simple para contar un día normal sin trabarte con la -s.",
+          "grammar": [
+            "present-simple",
+            "present-continuous"
+          ],
+          "explain": "Contar tu rutina es lo primero que te piden en cualquier charla\n(\"So, what do you do?\"), y es donde más se nota si hablás o traducís.\n\nTres cosas para tener en la cabeza:\n\n1. **He / she / it llevan -s.** *She works, he goes, it takes.* Es el error\n   número uno al hablar, aunque al escribir lo sepas.\n2. **Las palabras de frecuencia van antes del verbo:** *I usually get up at\n   seven.* No *I get up usually*.\n3. **Rutina ≠ ahora.** *I work in an office* (siempre) vs. *I'm working from\n   home this week* (por ahora).\n\nUnas expresiones que suenan naturales:\n\n- *I get up / I wake up* — me levanto / me despierto\n- *I have breakfast / lunch / dinner* — no *I take breakfast*\n- *I get to work at nine* — llego al trabajo\n- *I work from home* — trabajo desde casa\n- *After work, I usually...* — después del trabajo, por lo general...\n",
+          "practice": [
+            {
+              "type": "write",
+              "instruction": "Completá con el verbo en present simple.",
+              "prompt": "My sister ___ (work) from home on Fridays.",
+              "answers": [
+                "works"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con el verbo en present simple.",
+              "prompt": "He ___ (watch) the news every morning.",
+              "answers": [
+                "watches"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con do o does.",
+              "prompt": "___ your brother live near you?",
+              "answers": [
+                "Does"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Pasalo a negativo.",
+              "prompt": "She drinks coffee.",
+              "answers": [
+                "She doesn't drink coffee",
+                "She does not drink coffee"
+              ],
+              "hint": "doesn't + verbo base"
+            },
+            {
+              "type": "write",
+              "instruction": "Poné la palabra en su lugar.",
+              "prompt": "I get up at seven. (usually)",
+              "answers": [
+                "I usually get up at seven"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Ahora o siempre. Completá con la forma correcta de \"cook\".",
+              "prompt": "I can't talk right now, I ___ dinner.",
+              "answers": [
+                "'m cooking",
+                "am cooking",
+                "m cooking"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Traducí.",
+              "prompt": "Por lo general desayuno en casa.",
+              "answers": [
+                "I usually have breakfast at home",
+                "I usually eat breakfast at home"
+              ],
+              "note": "Desayunar es *have breakfast*. *Take breakfast* no se dice."
+            },
+            {
+              "type": "open",
+              "instruction": "Escribí 3 o 4 frases sobre tu mañana de un día de semana.",
+              "prompt": "Describe a normal weekday morning.",
+              "model": "I usually wake up at seven, but I get up at seven fifteen.\nI have breakfast at home, just coffee and toast.\nI start work at nine. On Fridays I work from home, so I don't take the bus.\n"
+            }
+          ],
+          "mission": {
+            "kind": "speak",
+            "title": "Un minuto sobre tu día",
+            "minutes": 10,
+            "task": "Grabate (con el grabador del teléfono, o con la app de notas de voz)\nhablando **un minuto** sobre un día normal de semana. No lo escribas antes:\nla idea es practicar hablar, no leer.\n\nPuede servirte esta estructura: *mornings → work → after work → evenings*.\n\nDespués escuchá la grabación una vez, revisá la lista y **grabate de nuevo**.\nLa segunda versión casi siempre sale mejor; compará las dos.\n",
+            "checklist": [
+              "Usé la -s con he / she cuando hablé de otra persona.",
+              "Usé al menos tres palabras de frecuencia (usually, sometimes, never...).",
+              "Dije \"have breakfast / lunch / dinner\", no \"take\".",
+              "Hablé el minuto completo, aunque hiciera pausas.",
+              "La segunda grabación fue más fluida que la primera."
+            ]
+          }
+        },
+        {
+          "id": "en-perfect",
+          "title": "¿Ya lo hiciste? Present perfect vs. past simple",
+          "order": 2,
+          "level": "A2",
+          "summary": "Dejar de usar past simple para todo, que es lo que nos sale a los rioplatenses.",
+          "grammar": [
+            "present-perfect",
+            "past-simple"
+          ],
+          "explain": "En castellano rioplatense decimos \"ya comí\", \"nunca fui a Japón\", \"vivo acá\ndesde 2020\". En inglés esas tres frases van en **present perfect**, no en past\nsimple ni en presente.\n\nLa pregunta que te tenés que hacer:\n\n\u003e ¿Estoy diciendo **cuándo** pasó, o estoy hablando de **cómo está ahora**?\n\n- Si decís cuándo (*yesterday, last year, in 2019, two days ago*) → **past simple**.\n- Si no hay un momento terminado, y lo que importa es el resultado o la experiencia → **present perfect**.\n\n| Rioplatense | Inglés |\n|---|---|\n| Ya comí. | *I've already eaten.* |\n| Nunca fui a Japón. | *I've never been to Japan.* |\n| Vivo acá desde 2020. | *I've lived here since 2020.* |\n| Fui a Japón en 2019. | *I went to Japan in 2019.* |\n\nEn una charla suele empezar en present perfect y seguir en past simple:\n\n\u003e *Have you ever been to Brazil?* — *Yes, I've been twice. I **went** to\n\u003e Florianópolis last summer.*\n\nAhí la primera frase es una experiencia y, cuando aparece el \"cuándo\", se pasa al pasado.\n",
+          "practice": [
+            {
+              "type": "write",
+              "instruction": "Completá con past simple o present perfect.",
+              "prompt": "I ___ (see) that movie last week.",
+              "answers": [
+                "saw"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con past simple o present perfect.",
+              "prompt": "She ___ (live) in Rosario since 2019.",
+              "answers": [
+                "has lived",
+                "'s lived",
+                "s lived"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con past simple o present perfect.",
+              "prompt": "We ___ (finish) the project two days ago.",
+              "answers": [
+                "finished"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con la forma correcta.",
+              "prompt": "I ___ (be / never) to Japan.",
+              "answers": [
+                "have never been",
+                "'ve never been",
+                "ve never been"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Traducí.",
+              "prompt": "¿Alguna vez probaste comida japonesa?",
+              "answers": [
+                "Have you ever tried Japanese food",
+                "Have you ever eaten Japanese food"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Traducí. (está terminado, importa ahora)",
+              "prompt": "Ya pagué.",
+              "answers": [
+                "I've already paid",
+                "I have already paid",
+                "I've paid already",
+                "I have paid already"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Traducí.",
+              "prompt": "Trabajo acá hace cinco años.",
+              "answers": [
+                "I've worked here for five years",
+                "I have worked here for five years",
+                "I've been working here for five years",
+                "I have been working here for five years"
+              ],
+              "note": "\"Hace X que\" con algo que sigue → present perfect + *for*. *I work here since five years* es un error clásico."
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con been o gone.",
+              "prompt": "Martín isn't here. He's ___ to the supermarket.",
+              "answers": [
+                "gone"
+              ],
+              "hint": "¿Volvió o todavía está allá?"
+            },
+            {
+              "type": "open",
+              "instruction": "Escribí una mini charla. Una pregunta con ever y la respuesta, que siga en past simple.",
+              "prompt": "Have you ever...?",
+              "model": "Have you ever been to a concert abroad?\nYes, I have. I saw Radiohead in Santiago in 2018. It was amazing.\n"
+            }
+          ],
+          "mission": {
+            "kind": "write",
+            "title": "Dos columnas en papel",
+            "minutes": 15,
+            "task": "En una hoja, hacé dos columnas:\n\n- **This year I've...**: 5 cosas que hiciste este año (el año no terminó, así que va present perfect). *This year I've started Japanese.*\n- **Last weekend I...**: 5 cosas del fin de semana pasado (momento terminado: past simple). *Last weekend I went to a friend's house.*\n\nDespués leé las 10 en voz alta. Elegí una de cada columna y armá una\nmini historia que pase de una a la otra, como en el ejemplo de Brazil de la lección.\n",
+            "checklist": [
+              "En la primera columna usé have / has + participio.",
+              "En la segunda no usé have.",
+              "Usé participios irregulares bien (been, seen, done, gone...).",
+              "Leí todo en voz alta al menos una vez."
+            ]
+          }
+        },
+        {
+          "id": "en-plans",
+          "title": "Planes para el finde",
+          "order": 3,
+          "level": "A2",
+          "summary": "Elegir entre will, going to y present continuous según qué tan decidido está.",
+          "grammar": [
+            "future",
+            "present-continuous"
+          ],
+          "explain": "La pregunta más común de un lunes o un viernes: *What are you doing this\nweekend?* Respondela según cuánto lo tengas decidido:\n\n- **Arreglado, con hora o con alguien:** present continuous. *I'm having lunch with my parents on Sunday.*\n- **Decidido, pero sin agenda:** going to. *I'm going to clean the house.*\n- **Lo decidís mientras hablás, o no estás seguro:** will. *Maybe I'll go to the cinema.* / *I think I'll stay home.*\n\nPara sonar natural, mezclá las tres en la misma respuesta:\n\n\u003e *On Saturday I'm meeting some friends for a barbecue. On Sunday I'm going\n\u003e to rest. Maybe I'll watch a movie.*\n",
+          "practice": [
+            {
+              "type": "write",
+              "instruction": "Plan arreglado. Completá con present continuous.",
+              "prompt": "I ___ (meet) Ana at six tomorrow.",
+              "answers": [
+                "'m meeting",
+                "am meeting",
+                "m meeting"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Decisión en el momento. Completá con will.",
+              "prompt": "The phone is ringing. — I ___ (get) it!",
+              "answers": [
+                "'ll get",
+                "will get",
+                "ll get"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Hay evidencia ahora. Completá con going to.",
+              "prompt": "Look at the sky. It ___ (rain).",
+              "answers": [
+                "'s going to rain",
+                "is going to rain",
+                "s going to rain"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Traducí.",
+              "prompt": "¿Qué hacés este finde?",
+              "answers": [
+                "What are you doing this weekend",
+                "What are you up to this weekend"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Pasalo a negativo.",
+              "prompt": "I will tell her.",
+              "answers": [
+                "I won't tell her",
+                "I will not tell her"
+              ]
+            },
+            {
+              "type": "open",
+              "instruction": "Contá tus planes para el próximo fin de semana usando las tres formas.",
+              "prompt": "What are you doing this weekend?",
+              "model": "On Saturday morning I'm playing football with my cousins.\nIn the afternoon I'm going to buy a present for my sister.\nI don't have plans for Sunday. I think I'll just stay home and read.\n"
+            }
+          ],
+          "mission": {
+            "kind": "speak",
+            "title": "La respuesta del lunes",
+            "minutes": 10,
+            "task": "El viernes, antes del finde, grabate respondiendo *What are you doing this\nweekend?* en unos 30 segundos.\n\nEl lunes, grabate respondiendo *What did you do at the weekend?* (past simple).\n\nEscuchá las dos grabaciones seguidas: ¿se cumplió lo que habías planeado?\n",
+            "checklist": [
+              "En la del viernes usé al menos dos formas de futuro distintas.",
+              "En la del lunes usé past simple con los irregulares bien (went, had, saw...).",
+              "No leí, hablé de memoria."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "ja",
+      "name": "Japonés",
+      "nativeName": "日本語",
+      "intro": "Arrancamos de cero. El japonés no se organiza en \"tiempos\" como el\nespañol: tiene **no-pasado** y **pasado**, y lo demás se resuelve con\nformas del verbo y con el nivel de cortesía. Por eso la gramática está\nagrupada por formas.\n",
+      "groups": [
+        {
+          "id": "escritura",
+          "title": "Escritura"
+        },
+        {
+          "id": "estructura",
+          "title": "Estructura básica"
+        },
+        {
+          "id": "masu",
+          "title": "Forma cortés (ます)"
+        },
+        {
+          "id": "formas",
+          "title": "Otras formas"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "hiragana",
+          "title": "Hiragana",
+          "group": "escritura",
+          "order": 1,
+          "level": "inicial",
+          "summary": "El silabario base. 46 caracteres, y con eso ya podés leer todo lo que sigue.",
+          "body": "## Por qué primero\n\nEl japonés usa tres escrituras juntas:\n\n- **Hiragana** (ひらがな): partes gramaticales, terminaciones, palabras japonesas.\n- **Katakana** (カタカナ): palabras extranjeras, como *アルゼンチン* (Argentina).\n- **Kanji** (漢字): caracteres de origen chino para las palabras con significado.\n\nToda la gramática de esta app se escribe en hiragana, así que es lo primero. El rōmaji (letras latinas) está como apoyo; la idea es largarlo lo antes posible.\n\n## La tabla básica\n\n| | a | i | u | e | o |\n|---|---|---|---|---|---|\n| — | あ a | い i | う u | え e | お o |\n| k | か ka | き ki | く ku | け ke | こ ko |\n| s | さ sa | し **shi** | す su | せ se | そ so |\n| t | た ta | ち **chi** | つ **tsu** | て te | と to |\n| n | な na | に ni | ぬ nu | ね ne | の no |\n| h | は ha | ひ hi | ふ **fu** | へ he | ほ ho |\n| m | ま ma | み mi | む mu | め me | も mo |\n| y | や ya | | ゆ yu | | よ yo |\n| r | ら ra | り ri | る ru | れ re | ろ ro |\n| w | わ wa | | | | を o |\n| | ん n | | | | |\n\nLas vocales suenan como en español. La *u* es más relajada, sin redondear los labios. La *r* japonesa es una *r* suave, como en \"pero\", nunca como en \"perro\".\n\n## Dakuten (゛) y handakuten (゜)\n\nDos rayitas cambian el sonido; un circulito convierte la *h* en *p*:\n\n| | a | i | u | e | o |\n|---|---|---|---|---|---|\n| g | が | ぎ | ぐ | げ | ご |\n| z | ざ | じ ji | ず | ぜ | ぞ |\n| d | だ | ぢ ji | づ zu | で | ど |\n| b | ば | び | ぶ | べ | ぼ |\n| p | ぱ | ぴ | ぷ | ぺ | ぽ |\n\n## Combinaciones y detalles\n\n- **Sílabas con ya/yu/yo chiquitas:** き + ゃ = きゃ *kya*, し + ょ = しょ *sho*, ち + ゅ = ちゅ *chu*.\n- **っ chiquita:** duplica la consonante siguiente, como una pausa breve. きって *kitte* (estampilla) vs. きて *kite* (vení).\n- **Vocales largas:** se escriben con otra vocal y duran el doble. おかあさん *okaasan* (mamá), せんせい *sensei* (profe, la *ei* suena como *ee*), ありがとう *arigatou*.\n\n## Tres lecturas especiales\n\nCuando son partículas gramaticales:\n\n- **は** se lee *wa*: わたし**は** — *watashi wa*.\n- **へ** se lee *e*: がっこう**へ** — *gakkou e*.\n- **を** se lee *o*: すし**を** — *sushi o*.\n\n## Cómo estudiarlo\n\nA mano y en papel. El orden de los trazos importa (después te sirve para el kanji): consultalo en cualquier tabla de hiragana impresa o en un diccionario. Mejor una fila por día, bien aprendida, que toda la tabla de golpe."
+        },
+        {
+          "id": "desu",
+          "title": "X は Y です",
+          "group": "estructura",
+          "order": 2,
+          "level": "inicial",
+          "summary": "La frase base: «X es Y», con su negativo y su pasado.",
+          "body": "## La estructura\n\n**[tema] は [lo que se dice del tema] です。**\n\n- わたしは がくせいです。 *Watashi wa gakusei desu.* — Soy estudiante.\n- これは すしです。 *Kore wa sushi desu.* — Esto es sushi.\n\n**は** (*wa*) marca el **tema**: \"en cuanto a X…\". **です** (*desu*) cierra la frase de forma cortés, como un \"es\" educado. Fijate que no cambia según la persona: soy, sos, es, somos… es siempre です.\n\nSi el tema se entiende por contexto, se omite. Así que una presentación suele ser simplemente: *がくせいです。*\n\n## Las cuatro formas\n\n| | No-pasado | Pasado |\n|---|---|---|\n| **Afirmativo** | がくせい**です** | がくせい**でした** |\n| **Negativo** | がくせい**じゃありません** | がくせい**じゃありませんでした** |\n\n- *じゃありません* es la versión hablada; *ではありません* es más formal o escrita. Significan lo mismo.\n\n## Preguntas\n\nSe agrega **か** al final. No hace falta invertir nada:\n\n- がくせいですか。 *Gakusei desu ka.* — ¿Sos estudiante?\n- はい、そうです。 / いいえ、ちがいます。 — Sí, así es. / No, no es así.\n\n## Versión casual (para reconocerla)\n\nCon amigos, です se vuelve **だ** o directamente desaparece: *がくせいだ*, *がくせいじゃない*, *がくせいだった*. Por ahora usá siempre です: no suena raro con nadie.\n\n## Ojo con los adjetivos en -い\n\nLos adjetivos como たかい (caro), おいしい (rico) ya llevan su propio tiempo. El pasado de *たかいです* es **たかかったです**, no ~~たかいでした~~. Esto lo vamos a ver aparte; por ahora usá でした solo con sustantivos."
+        },
+        {
+          "id": "masu",
+          "title": "ます: no-pasado",
+          "group": "masu",
+          "order": 3,
+          "level": "inicial",
+          "summary": "La forma cortés de los verbos. Sirve para presente y para futuro.",
+          "body": "## Un solo \"tiempo\" para presente y futuro\n\nEl japonés no distingue presente de futuro. **ます** cubre los dos; lo aclara el contexto o una palabra de tiempo:\n\n- まいにち コーヒーを のみます。 — Tomo café todos los días.\n- あした きょうとへ いきます。 — Mañana voy a Kioto.\n\n## Formas\n\n| | Afirmativo | Negativo |\n|---|---|---|\n| comer | たべ**ます** | たべ**ません** |\n| beber | のみ**ます** | のみ**ません** |\n| ir | いき**ます** | いき**ません** |\n| venir | き**ます** | き**ません** |\n| hacer | し**ます** | し**ません** |\n| ver | み**ます** | み**ません** |\n| leer | よみ**ます** | よみ**ません** |\n| escribir | かき**ます** | かき**ません** |\n| hablar | はなし**ます** | はなし**ません** |\n| levantarse | おき**ます** | おき**ません** |\n| dormir/acostarse | ね**ます** | ね**ません** |\n\nPor ahora aprendé los verbos directamente en forma ます. La forma de diccionario (たべる, のむ…) y cómo se pasa de una a otra viene después, con la forma て.\n\n## El verbo va al final\n\nEl orden es **sujeto – objeto – verbo**. Las partículas indican quién hace qué:\n\n- **を** (*o*): el objeto. コーヒー**を** のみます。\n- **に**: hora concreta o destino. しちじ**に** おきます。 — Me levanto a las siete.\n- **へ** (*e*): dirección. にほん**へ** いきます。\n- **で**: dónde ocurre la acción. うち**で** たべます。 — Como en casa.\n\n## ¿Y \"estoy comiendo\"?\n\nEso no es ます sino **〜ています** (たべています), que necesita la forma て. Aparece en su propia página."
+        },
+        {
+          "id": "mashita",
+          "title": "ました: pasado",
+          "group": "masu",
+          "order": 4,
+          "level": "inicial",
+          "summary": "El pasado cortés, afirmativo y negativo.",
+          "body": "## Formas\n\nDe ます a ました, y de ません a ませんでした:\n\n| | No-pasado | Pasado | Pasado negativo |\n|---|---|---|---|\n| comer | たべます | たべ**ました** | たべ**ませんでした** |\n| ir | いきます | いき**ました** | いき**ませんでした** |\n| hacer | します | し**ました** | し**ませんでした** |\n| ver | みます | み**ました** | み**ませんでした** |\n\nEs completamente regular: no hay irregulares en esta forma.\n\n## Ejemplos\n\n- きのう えいがを みました。 — Ayer vi una película.\n- けさ あさごはんを たべませんでした。 — Hoy a la mañana no desayuné.\n- しゅうまつ なにを しましたか。 — ¿Qué hiciste el fin de semana?\n\n## Un solo pasado\n\nNo hay diferencia entre \"comí\" y \"comía\": los dos son たべました. Si hace falta, el contexto (o otras formas que vienen después) lo aclaran.\n\n## \"Ya\" y \"todavía no\"\n\n- もう たべました。 — Ya comí.\n- まだ たべていません。 — Todavía no comí.\n\nFijate que \"todavía no\" **no** usa ませんでした sino 〜ていません. Es una diferencia importante que retomamos con la forma て."
+        },
+        {
+          "id": "te",
+          "title": "Forma て",
+          "group": "formas",
+          "order": 5,
+          "level": "básico",
+          "summary": "La forma que conecta: pedidos, «estoy haciendo» y encadenar acciones.",
+          "body": "## Para qué sirve\n\nLa forma て no es un tiempo; es una \"bisagra\" que se usa en un montón de construcciones:\n\n- **Pedidos:** みて**ください**。 — Mirá, por favor.\n- **Acción en curso o estado:** たべて**います**。 — Estoy comiendo.\n- **Encadenar acciones:** おきて、シャワーを あびて、でかけます。 — Me levanto, me ducho y salgo.\n\n## Grupos de verbos\n\nPara formarla hace falta la forma de diccionario y saber el grupo:\n\n- **Grupo 2 (ichidan):** terminan en *-iru* / *-eru* y se les saca る. たべる, みる, ねる, おきる.\n- **Grupo 1 (godan):** el resto. のむ, いく, かく, はなす, まつ.\n- **Irregulares:** する y くる.\n\nOjo: algunos verbos terminan en *-iru/-eru* y son del grupo 1, como かえる (volver) o はいる (entrar). Esos se aprenden de memoria.\n\n## Reglas\n\n**Grupo 2:** る → **て**. たべる → たべて, みる → みて.\n\n**Grupo 1:** depende de la última sílaba.\n\n| Termina en | Cambia a | Ejemplo |\n|---|---|---|\n| う・つ・る | って | かう → かって, まつ → まって, とる → とって |\n| む・ぶ・ぬ | んで | のむ → のんで, あそぶ → あそんで, しぬ → しんで |\n| く | いて | かく → かいて |\n| ぐ | いで | およぐ → およいで |\n| す | して | はなす → はなして |\n\n**Excepción:** いく → **いって** (no いいて).\n\n**Irregulares:** する → して, くる → きて.\n\n## Cómo memorizarlo\n\nLa tabla parece mucho, pero es una sola idea: los sonidos se \"suavizan\" para que sea más fácil de pronunciar. Recitá en voz alta una fila por día con 3 verbos que conozcas."
+        }
+      ],
+      "lessons": [
+        {
+          "id": "ja-hiragana-1",
+          "title": "Hiragana con lápiz: あ, か, さ",
+          "order": 1,
+          "level": "inicial",
+          "summary": "Las primeras tres filas del hiragana y 10 palabras que ya podés leer.",
+          "grammar": [
+            "hiragana"
+          ],
+          "explain": "Hoy son **15 caracteres**: las filas de あ, か y さ. Con eso ya podés leer\npalabras reales.\n\n| | a | i | u | e | o |\n|---|---|---|---|---|---|\n| — | あ | い | う | え | お |\n| k | か | き | く | け | こ |\n| s | さ | し | す | せ | そ |\n\nLa única sorpresa es **し**, que se lee *shi*, no *si*.\n\nCon esas tres filas ya podés leer estas palabras:\n\n| Hiragana | Lectura | Significado |\n|---|---|---|\n| あさ | asa | mañana (la parte del día) |\n| いえ | ie | casa |\n| うえ | ue | arriba |\n| あおい | aoi | azul |\n| かさ | kasa | paraguas |\n| すし | sushi | sushi |\n| いす | isu | silla |\n| あき | aki | otoño |\n| こえ | koe | voz |\n| せかい | sekai | mundo |\n\n**Truco:** no las memorices como dibujos sueltos. Leé cada palabra en voz\nalta mientras la mirás; el sonido ayuda a fijar la forma.\n\nPara tipear en el teléfono, agregá el teclado **japonés (kana o rōmaji)**\nen los ajustes. Escribís *kasa* y te propone かさ.\n",
+          "practice": [
+            {
+              "type": "write",
+              "instruction": "Escribí cómo se lee (en rōmaji).",
+              "prompt": "かさ",
+              "answers": [
+                "kasa"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Escribí cómo se lee (en rōmaji).",
+              "prompt": "すし",
+              "answers": [
+                "sushi"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Escribí cómo se lee (en rōmaji).",
+              "prompt": "せかい",
+              "answers": [
+                "sekai"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Escribí cómo se lee (en rōmaji).",
+              "prompt": "あおい",
+              "answers": [
+                "aoi"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Escribí cómo se lee (en rōmaji).",
+              "prompt": "こえ",
+              "answers": [
+                "koe"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Escribilo en hiragana.",
+              "prompt": "isu (silla)",
+              "answers": [
+                "いす"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Escribilo en hiragana.",
+              "prompt": "aki (otoño)",
+              "answers": [
+                "あき"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Escribilo en hiragana.",
+              "prompt": "ue (arriba)",
+              "answers": [
+                "うえ"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "¿Qué carácter se lee \"shi\"?",
+              "prompt": "shi",
+              "answers": [
+                "し"
+              ]
+            }
+          ],
+          "mission": {
+            "kind": "write",
+            "title": "Una hoja cuadriculada",
+            "minutes": 20,
+            "task": "Con una hoja cuadriculada y un lápiz:\n\n1. Buscá el **orden de trazos** de las 15 letras en una tabla de hiragana\n   (cualquier libro o diccionario lo tiene). Seguilo desde el principio:\n   arreglarlo después cuesta más.\n2. Escribí cada carácter **5 veces**, diciendo el sonido en voz alta cada vez.\n3. Tapá la tabla y escribí de memoria las 10 palabras de la lección\n   a partir de su lectura (*asa, ie, ue...*).\n4. Corregí con la tabla. Las que fallaste, escribilas 5 veces más.\n\nGuardá la hoja. Dentro de unos días, volvé a hacer el paso 3 sin mirar.\n",
+            "checklist": [
+              "Seguí el orden de trazos.",
+              "Dije el sonido en voz alta mientras escribía.",
+              "Escribí de memoria al menos 7 de las 10 palabras.",
+              "No confundí さ con き, ni こ con い."
+            ]
+          }
+        },
+        {
+          "id": "ja-jikoshoukai",
+          "title": "Presentarte: じこしょうかい",
+          "order": 2,
+          "level": "inicial",
+          "summary": "La presentación clásica japonesa, frase por frase, y qué significa cada parte.",
+          "grammar": [
+            "desu",
+            "hiragana"
+          ],
+          "explain": "En Japón hay una fórmula de presentación (**じこしょうかい**, *jikoshoukai*)\nque se usa casi igual en el trabajo, en clase o en un intercambio de\nidiomas. Aprendela entera: te va a servir tal cual.\n\n\u003e はじめまして。\n\u003e *Hajimemashite.* — Mucho gusto (literalmente \"es la primera vez\").\n\u003e\n\u003e ソフィアです。\n\u003e *Sofia desu.* — Soy Sofía.\n\u003e\n\u003e アルゼンチンから きました。\n\u003e *Aruzenchin kara kimashita.* — Vengo de Argentina.\n\u003e\n\u003e エンジニアです。\n\u003e *Enjinia desu.* — Soy ingeniera.\n\u003e\n\u003e よろしく おねがいします。\n\u003e *Yoroshiku onegaishimasu.* — Encantada / cuento con vos.\n\nAlgunas notas:\n\n- **Tu nombre va en katakana** (como ソフィア o アルゼンチン), porque es una\n  palabra extranjera. Todavía no aprendiste katakana: por ahora copiá tu\n  nombre de algún conversor y vamos a llegar ahí.\n- **No digas わたしは todo el tiempo.** Ya se sabe que hablás de vos, así que\n  *ソフィアです* alcanza. Repetir *watashi wa* suena a libro de texto.\n- **〜から きました** significa \"vine de\". Es la forma fija de decir de\n  dónde sos. きました es el pasado de きます (venir).\n- **よろしく おねがいします** no tiene traducción directa; es una forma de\n  pedir buena disposición para la relación que empieza. No se omite.\n- Al decirlo, una leve inclinación de cabeza en はじめまして y en よろしく.\n",
+          "practice": [
+            {
+              "type": "write",
+              "instruction": "Escribí en hiragana.",
+              "prompt": "Soy estudiante. (estudiante = がくせい)",
+              "answers": [
+                "がくせいです",
+                "わたしはがくせいです",
+                "学生です",
+                "私は学生です"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Pasalo a negativo.",
+              "prompt": "がくせいです。",
+              "answers": [
+                "がくせいじゃありません",
+                "がくせいではありません"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Pasalo a pasado.",
+              "prompt": "がくせいです。",
+              "answers": [
+                "がくせいでした"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Convertilo en pregunta.",
+              "prompt": "がくせいです。",
+              "answers": [
+                "がくせいですか"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "¿Cómo se lee は cuando es partícula?",
+              "prompt": "わたしは",
+              "answers": [
+                "watashi wa",
+                "watashiwa"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Escribí la frase que va al principio de la presentación.",
+              "prompt": "Mucho gusto (la primera vez).",
+              "answers": [
+                "はじめまして",
+                "hajimemashite"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Escribí la frase que cierra la presentación.",
+              "prompt": "Encantado/a, cuento con vos.",
+              "answers": [
+                "よろしくおねがいします",
+                "よろしくお願いします",
+                "yoroshiku onegaishimasu"
+              ]
+            },
+            {
+              "type": "open",
+              "instruction": "Armá tu じこしょうかい completa. Tu nombre y país pueden ir en rōmaji si todavía no sabés katakana.",
+              "prompt": "じこしょうかい",
+              "model": "はじめまして。\n(tu nombre)です。\nアルゼンチンから きました。\nよろしく おねがいします。\n"
+            }
+          ],
+          "mission": {
+            "kind": "speak",
+            "title": "Presentate frente al espejo",
+            "minutes": 10,
+            "task": "1. Escribí tu じこしょうかい **a mano** en un papel, en hiragana (tu\n   nombre y Argentina pueden ir en rōmaji por ahora).\n2. Leela en voz alta 5 veces. Después, 3 veces sin mirar.\n3. Grabate diciéndola sin mirar, con la inclinación de cabeza incluida\n   (sí, aunque nadie te vea: el cuerpo ayuda a memorizar).\n4. Escuchate y fijate en el ritmo. En japonés cada sílaba dura más o\n   menos lo mismo: *ha-ji-me-ma-shi-te*, sin acentos fuertes como en español.\n",
+            "checklist": [
+              "La escribí a mano en hiragana.",
+              "La dije entera sin mirar.",
+              "Leí は como \"wa\".",
+              "Las sílabas me salieron parejas, sin acentuar como en español.",
+              "Pronuncié おねがい con sus cuatro sílabas (o-ne-ga-i)."
+            ]
+          }
+        },
+        {
+          "id": "ja-mainichi",
+          "title": "まいにち: tu día con ます",
+          "order": 3,
+          "level": "inicial",
+          "summary": "Contar tu rutina en japonés con verbos en ます y las partículas を, に, で.",
+          "grammar": [
+            "masu",
+            "mashita"
+          ],
+          "explain": "Con ます y tres partículas ya podés contar un día entero.\n\n\u003e まいにち しちじに おきます。\n\u003e *Mainichi shichiji ni okimasu.* — Todos los días me levanto a las siete.\n\u003e\n\u003e うちで あさごはんを たべます。\n\u003e *Uchi de asagohan o tabemasu.* — Desayuno en casa.\n\u003e\n\u003e くじに しごとへ いきます。\n\u003e *Kuji ni shigoto e ikimasu.* — A las nueve voy al trabajo.\n\nLas partículas:\n\n- **に**: hora concreta (しちじ**に**) o destino.\n- **で**: dónde hacés la acción (うち**で**).\n- **を** (se lee *o*): el objeto (あさごはん**を**).\n- **へ** (se lee *e*): hacia dónde vas.\n\nLas horas: いちじ (1), にじ (2), さんじ (3), **よじ** (4), ごじ (5), ろくじ (6),\n**しちじ** (7), はちじ (8), **くじ** (9), じゅうじ (10). Las marcadas en negrita\nson irregulares: hay que aprenderlas aparte.\n\nPara contar lo que hiciste **ayer** (きのう), pasá todo a ました.\n",
+          "practice": [
+            {
+              "type": "write",
+              "instruction": "Completá con la partícula.",
+              "prompt": "しちじ ___ おきます。",
+              "answers": [
+                "に"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con la partícula.",
+              "prompt": "うち ___ たべます。",
+              "answers": [
+                "で"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con la partícula.",
+              "prompt": "コーヒー ___ のみます。",
+              "answers": [
+                "を"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Pasalo a negativo.",
+              "prompt": "あさごはんを たべます。",
+              "answers": [
+                "あさごはんをたべません"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Pasalo a pasado (ayer).",
+              "prompt": "くじに ねます。",
+              "answers": [
+                "くじにねました"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "¿Cómo se dice \"a las cuatro\"? (ojo, es irregular)",
+              "prompt": "4:00",
+              "answers": [
+                "よじ",
+                "よじに",
+                "yoji",
+                "yoji ni"
+              ]
+            },
+            {
+              "type": "open",
+              "instruction": "Escribí 3 frases sobre tu mañana, en hiragana (o rōmaji si todavía no te sale).",
+              "prompt": "まいにち...",
+              "model": "まいにち ろくじに おきます。\nコーヒーを のみます。\nはちじに しごとへ いきます。\n"
+            }
+          ],
+          "mission": {
+            "kind": "speak",
+            "title": "Narrá tu mañana en tiempo real",
+            "minutes": 5,
+            "task": "Mañana, mientras hacés tu rutina, **decí en voz alta en japonés** cada cosa\nque hacés, aunque sea en voz baja:\n\n- al levantarte: *おきます*\n- al tomar algo: *コーヒーを のみます*\n- al desayunar: *あさごはんを たべます*\n- al salir: *しごとへ いきます*\n\nA la noche, escribí en papel 3 frases sobre lo que hiciste, en pasado (ました).\n",
+            "checklist": [
+              "Dije al menos 4 acciones en voz alta durante la mañana.",
+              "Usé las partículas に, で y を.",
+              "A la noche escribí 3 frases en ました."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "pt",
+      "name": "Portugués",
+      "nativeName": "Português (Brasil)",
+      "intro": "Portugués de Brasil. Para un hispanohablante, lo difícil no es entender\nsino **no hablar portuñol**: acá vas a encontrar dónde se parece al\nespañol y dónde te engaña.\n",
+      "groups": [
+        {
+          "id": "presente",
+          "title": "Presente"
+        },
+        {
+          "id": "passado",
+          "title": "Pasado"
+        },
+        {
+          "id": "futuro",
+          "title": "Futuro"
+        },
+        {
+          "id": "claves",
+          "title": "Claves para hispanohablantes"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "presente",
+          "title": "Presente do indicativo",
+          "group": "presente",
+          "order": 1,
+          "level": "A1",
+          "summary": "Regulares en -ar, -er, -ir y los irregulares que vas a usar todo el día.",
+          "body": "## Pronombres en Brasil\n\nEn la mayor parte de Brasil se usa **você** (con verbo en 3ª persona) en lugar de *tu*, y **a gente** muy seguido en lugar de *nós*.\n\n- *Você fala inglês?* — ¿Hablás inglés?\n- *A gente vai sair.* — Vamos a salir. (*a gente* va con verbo en 3ª singular)\n\nPor eso las tablas muestran **eu / você, ele, ela / nós / vocês, eles, elas**.\n\n## Regulares\n\n| | falar | comer | abrir |\n|---|---|---|---|\n| eu | fal**o** | com**o** | abr**o** |\n| você / ele / ela | fal**a** | com**e** | abr**e** |\n| nós | fal**amos** | com**emos** | abr**imos** |\n| vocês / eles / elas | fal**am** | com**em** | abr**em** |\n\nMuy parecido al español. Ojo: la 3ª plural termina en **-am / -em**, que suena nasal, no \"-an\".\n\n## Irregulares de todos los días\n\n| | ser | estar | ter | ir | fazer |\n|---|---|---|---|---|---|\n| eu | sou | estou | tenho | vou | faço |\n| você / ele | é | está | tem | vai | faz |\n| nós | somos | estamos | temos | vamos | fazemos |\n| vocês / eles | são | estão | têm | vão | fazem |\n\n- **ter** se usa también donde en español va \"haber\" impersonal: *Tem uma farmácia aqui perto?* — ¿Hay una farmacia cerca?\n- **ser vs. estar** funciona casi igual que en español.\n\n## Presente continuo\n\nEn Brasil: **estar + gerundio** — *Estou trabalhando.* (En Portugal se dice *estou a trabalhar*.)"
+        },
+        {
+          "id": "preterito-perfeito",
+          "title": "Pretérito perfeito",
+          "group": "passado",
+          "order": 2,
+          "level": "A1",
+          "summary": "El \"comí, fui, hice\" del portugués. Acciones terminadas.",
+          "body": "## Cuándo se usa\n\nIgual que el pretérito simple del español rioplatense: algo que pasó y terminó.\n\n- *Ontem eu **falei** com ela.* — Ayer hablé con ella.\n- *Você já **comeu**?* — ¿Ya comiste?\n- *A gente **foi** ao cine no sábado.*\n\n## Regulares\n\n| | falar | comer | abrir |\n|---|---|---|---|\n| eu | fal**ei** | com**i** | abr**i** |\n| você / ele / ela | fal**ou** | com**eu** | abr**iu** |\n| nós | fal**amos** | com**emos** | abr**imos** |\n| vocês / eles / elas | fal**aram** | com**eram** | abr**iram** |\n\nOjo con la 3ª singular: **-ou, -eu, -iu**. *Ele falou* (no \"fabló\").\n\nLa forma de *nós* es igual en presente y pasado (*falamos*); se distingue por el contexto.\n\n## Irregulares clave\n\n| | ser / ir | estar | ter | fazer |\n|---|---|---|---|---|\n| eu | fui | estive | tive | fiz |\n| você / ele | foi | esteve | teve | fez |\n| nós | fomos | estivemos | tivemos | fizemos |\n| vocês / eles | foram | estiveram | tiveram | fizeram |\n\nComo en español, *ser* e *ir* comparten el pasado: *fui*.\n\n## La trampa: \"tenho feito\" no es \"he hecho\"\n\nEn portugués, **ter + participio** en presente (*tenho feito*) significa algo **repetido hasta ahora**, como \"vengo haciendo\" o \"he estado haciendo\":\n\n- *Tenho trabalhado muito.* — Vengo trabajando mucho (últimamente).\n\nPara \"¿Has comido?\" / \"¿Ya comiste?\" se usa el perfeito simple: ***Você já comeu?***"
+        },
+        {
+          "id": "preterito-imperfeito",
+          "title": "Pretérito imperfeito",
+          "group": "passado",
+          "order": 3,
+          "level": "A2",
+          "summary": "«Comía, iba, era»: hábitos y descripciones del pasado.",
+          "body": "## Cuándo se usa\n\nFunciona como el imperfecto del español:\n\n- **Hábitos del pasado:** *Quando eu era criança, **brincava** na rua.*\n- **Descripciones, el \"fondo\" de la historia:** *Estava frio e **chovia**.*\n- **Algo en curso cuando pasó otra cosa:** *Eu **dormia** quando você ligou.*\n- **Pedidos amables:** *Eu **queria** um café, por favor.*\n\n## Regulares\n\n| | falar | comer | abrir |\n|---|---|---|---|\n| eu | fal**ava** | com**ia** | abr**ia** |\n| você / ele / ela | fal**ava** | com**ia** | abr**ia** |\n| nós | fal**ávamos** | com**íamos** | abr**íamos** |\n| vocês / eles / elas | fal**avam** | com**iam** | abr**iam** |\n\nPrácticamente igual al español, con *-ava* en vez de *-aba*.\n\n## Solo cuatro irregulares\n\n| | ser | ter | vir | pôr |\n|---|---|---|---|---|\n| eu / você | era | tinha | vinha | punha |\n| nós | éramos | tínhamos | vínhamos | púnhamos |\n| vocês / eles | eram | tinham | vinham | punham |\n\n## Perfeito vs. imperfeito\n\nLa lógica es la misma que en español, así que confiá en tu instinto:\n\n- *Eu **morava** em Rosario quando **conheci** a Júlia.* — vivía (fondo) / conocí (evento).\n- *Todo domingo a gente **almoçava** com a avó.* — hábito.\n- *No domingo a gente **almoçou** com a avó.* — una vez."
+        },
+        {
+          "id": "futuro",
+          "title": "Futuro",
+          "group": "futuro",
+          "order": 4,
+          "level": "A1",
+          "summary": "«Vou fazer» para hablar; el futuro simple para escribir formal.",
+          "body": "## El futuro que se habla: ir + infinitivo\n\nComo \"voy a hacer\", y en Brasil es **lo normal** para casi todo:\n\n- *Amanhã eu **vou trabalhar** de casa.*\n- *A gente **vai viajar** em janeiro.*\n- *Vai chover.*\n\nFijate que el portugués no lleva \"a\": ***vou fazer***, no *vou a fazer*.\n\n## Futuro simples (más formal)\n\nInfinitivo + **-ei, -á, -emos, -ão**:\n\n| | falar |\n|---|---|\n| eu | falar**ei** |\n| você / ele | falar**á** |\n| nós | falar**emos** |\n| vocês / eles | falar**ão** |\n\nIrregulares: *fazer → farei, dizer → direi, trazer → trarei*.\n\nLo vas a ver en noticias, contratos y textos escritos. En una charla suena formal: *Eu farei isso* suena a discurso; *Vou fazer isso* es lo natural.\n\n## Presente con valor de futuro\n\nTambién como en español: *Amanhã eu **viajo** para o Rio.*"
+        },
+        {
+          "id": "trampas",
+          "title": "Trampas para hispanohablantes",
+          "group": "claves",
+          "order": 5,
+          "level": "A1",
+          "summary": "Falsos amigos, \"ficar\" y contracciones. Lo que te hace sonar a portuñol.",
+          "body": "## Falsos amigos frecuentes\n\n| Portugués | Significa | No es | Para eso decí |\n|---|---|---|---|\n| **esquisito** | raro | exquisito | *delicioso, gostoso* |\n| **polvo** | pulpo | polvo | *pó, poeira* |\n| **borracha** | goma de borrar | borracha | *bêbada* |\n| **apelido** | apodo | apellido | *sobrenome* |\n| **oficina** | taller mecánico | oficina | *escritório* |\n| **cena** | escena | cena | *jantar* |\n| **largo** | ancho | largo | *comprido* |\n| **rato** | ratón | rato | *um tempinho* |\n| **embaraçado** | avergonzado | embarazado | *grávida* |\n| **propina** | soborno | propina | *gorjeta* |\n| **salsa** | perejil | salsa | *molho* |\n\n## Ficar: el verbo comodín\n\nNo tiene traducción única. Los usos más comunes:\n\n- **Quedarse:** *Vou ficar em casa.*\n- **Estar ubicado:** *Onde fica o banco?* — ¿Dónde queda el banco?\n- **Ponerse (cambio de estado):** *Fiquei nervoso.* — Me puse nervioso.\n- **Quedar (resultado):** *Ficou ótimo!* — ¡Quedó genial!\n\n## Contracciones obligatorias\n\nEn español decís \"en el\", en portugués se junta siempre:\n\n| | o | a | os | as |\n|---|---|---|---|---|\n| **em** | no | na | nos | nas |\n| **de** | do | da | dos | das |\n| **a** | ao | à | aos | às |\n| **por** | pelo | pela | pelos | pelas |\n\n- *Moro **no** Brasil. Venho **da** Argentina. Vou **à** praia.*\n\n## Pronombres en el lugar \"brasileño\"\n\nEn el habla de Brasil el pronombre suele ir **antes** del verbo: *Me chamo Ana*, *Te ligo amanhã*. Las gramáticas de Portugal lo ponen después (*Chamo-me*), pero en Brasil eso suena escrito o formal."
+        }
+      ],
+      "lessons": [
+        {
+          "id": "pt-apresentar",
+          "title": "Se apresentar de verdade",
+          "order": 1,
+          "level": "A1–A2",
+          "summary": "Presentarte en portugués sin traducir del español palabra por palabra.",
+          "grammar": [
+            "presente",
+            "trampas"
+          ],
+          "explain": "Vas a entender casi todo lo que te digan. El desafío es **responder** sin\narmar la frase en español y \"portuguesizarla\".\n\nAsí suena una presentación natural en Brasil:\n\n\u003e *Oi, tudo bem? Eu me chamo Lucas, mas pode me chamar de Lu. Sou\n\u003e argentino, de Buenos Aires. Trabalho com tecnologia, sou desenvolvedor.\n\u003e Tenho trinta e dois anos.*\n\nFijate en lo siguiente:\n\n- **Me chamo / Meu nome é.** Las dos están bien. *Me chamo* va con el\n  pronombre adelante, como se habla en Brasil.\n- **Sou de... / Moro em...:** *Sou de Córdoba, mas moro em Buenos Aires.*\n  Ojo: *em + o* = *no*, y queda *Moro no Brasil*.\n- **Trabalho com...:** es la forma más común de decir a qué área te\n  dedicás. *Trabalho com marketing.*\n- **Tenho X anos,** con *ter*, como en español.\n- **Tudo bem? / Tudo bom?** Es el \"¿todo bien?\" de siempre. Se responde\n  *Tudo, e você?*\n\nEn la 3ª persona plural (*eles falam, eles comem*) la terminación es nasal.\nNo es \"falan\"; la *m* final casi no suena, pero nasaliza la vocal.\n",
+          "practice": [
+            {
+              "type": "write",
+              "instruction": "Completá con el verbo en presente.",
+              "prompt": "Eu ___ (morar) em Buenos Aires.",
+              "answers": [
+                "moro"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con el verbo en presente.",
+              "prompt": "Nós ___ (ser) argentinos.",
+              "answers": [
+                "somos"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con el verbo en presente.",
+              "prompt": "Ela ___ (ter) dois irmãos.",
+              "answers": [
+                "tem"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con el verbo en presente.",
+              "prompt": "Eu ___ (fazer) academia três vezes por semana.",
+              "answers": [
+                "faço"
+              ],
+              "note": "*Fazer academia* = ir al gimnasio."
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con la contracción correcta (em + artículo).",
+              "prompt": "Meu irmão mora ___ Espanha.",
+              "answers": [
+                "na"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Traducí.",
+              "prompt": "Trabajo en una empresa de software.",
+              "answers": [
+                "Trabalho numa empresa de software",
+                "Trabalho em uma empresa de software",
+                "Eu trabalho numa empresa de software",
+                "Eu trabalho em uma empresa de software"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Traducí. (cuidado con el falso amigo)",
+              "prompt": "Mi apellido es García.",
+              "answers": [
+                "Meu sobrenome é García",
+                "O meu sobrenome é García",
+                "Meu sobrenome é Garcia"
+              ],
+              "note": "*Apelido* en portugués es apodo."
+            },
+            {
+              "type": "open",
+              "instruction": "Presentate en 4 o 5 frases, como si fuera la primera vez que hablás con alguien en un call.",
+              "prompt": "Se apresente.",
+              "model": "Oi, tudo bem? Me chamo Sofia. Sou argentina, de Rosario, mas moro em\nBuenos Aires há cinco anos. Trabalho com design. Nas horas livres eu\ngosto de cozinhar e estou aprendendo japonês.\n"
+            }
+          ],
+          "mission": {
+            "kind": "speak",
+            "title": "La presentación de un minuto",
+            "minutes": 10,
+            "task": "1. Grabate presentándote en portugués **sin leer**. Nombre, de dónde sos,\n   dónde vivís, a qué te dedicás y algo que te guste hacer.\n2. Escuchalo y anotá en un papel las palabras donde dudaste o que dijiste\n   en español.\n3. Buscá esas palabras (en la sección de gramática o en un diccionario) y\n   grabate de nuevo.\n\nPara un extra: buscá un video corto de alguien de Brasil presentándose\n(un vlog, una entrevista) y anotá 3 expresiones que use y vos no.\n",
+            "checklist": [
+              "No leí. Hablé de memoria aunque me trabara.",
+              "Usé las contracciones (no, na, da, do) y no \"em o\" o \"de a\".",
+              "Pronuncié las terminaciones -am / -em nasales.",
+              "No se me coló ninguna palabra en español.",
+              "Anoté al menos 2 palabras para revisar."
+            ]
+          }
+        },
+        {
+          "id": "pt-lembranca",
+          "title": "Contar uma lembrança: perfeito vs. imperfeito",
+          "order": 2,
+          "level": "A2",
+          "summary": "Contar algo de tu infancia y usar los dos pasados como en español.",
+          "grammar": [
+            "preterito-perfeito",
+            "preterito-imperfeito"
+          ],
+          "explain": "Buena noticia: la diferencia entre **perfeito** y **imperfeito** es casi la\nmisma que entre \"comí\" y \"comía\". Si en español usarías imperfecto, en\nportugués también.\n\n\u003e *Quando eu **era** criança, a gente **passava** o verão na casa da minha\n\u003e avó. Ela **morava** perto do rio. Um dia, meu primo **caiu** na água e\n\u003e todo mundo **ficou** desesperado.*\n\n- **era, passava, morava:** el fondo de la historia y los hábitos (imperfeito).\n- **caiu, ficou:** lo que pasó en un momento (perfeito).\n\nLo que sí cambia:\n\n- **Terminaciones del perfeito en 3ª persona:** *-ou, -eu, -iu* (*falou,\n  comeu, caiu*). Es lo que más se mezcla con el español.\n- **\"Tenho feito\" no es \"he hecho\".** Significa \"vengo haciendo\". Para\n  \"¿Ya comiste?\" se dice *Você já comeu?*\n- **A gente + 3ª singular:** *a gente passava*, *a gente foi*. Suena mucho\n  más natural que *nós* en una charla.\n",
+          "practice": [
+            {
+              "type": "write",
+              "instruction": "Completá con perfeito o imperfeito.",
+              "prompt": "Quando eu era criança, ___ (morar) no interior.",
+              "answers": [
+                "morava"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con perfeito o imperfeito.",
+              "prompt": "Ontem eu ___ (ir) ao cinema.",
+              "answers": [
+                "fui"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con perfeito o imperfeito.",
+              "prompt": "Todo verão a gente ___ (viajar) para a praia.",
+              "answers": [
+                "viajava"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con perfeito o imperfeito.",
+              "prompt": "Ele ___ (fazer) aniversário semana passada.",
+              "answers": [
+                "fez"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con perfeito o imperfeito.",
+              "prompt": "Meu avô ___ (ter) uma oficina mecânica.",
+              "answers": [
+                "tinha"
+              ],
+              "note": "*Oficina* es taller: acá está bien usada."
+            },
+            {
+              "type": "write",
+              "instruction": "Traducí.",
+              "prompt": "¿Ya comiste?",
+              "answers": [
+                "Você já comeu",
+                "Já comeu"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Traducí.",
+              "prompt": "Vengo trabajando mucho.",
+              "answers": [
+                "Tenho trabalhado muito",
+                "Eu tenho trabalhado muito"
+              ]
+            },
+            {
+              "type": "open",
+              "instruction": "Escribí 3 o 4 frases sobre un verano de tu infancia, mezclando los dos pasados.",
+              "prompt": "Um verão da sua infância.",
+              "model": "Quando eu tinha dez anos, a gente ia todo verão para Mar del Plata.\nA gente alugava um apartamento perto da praia. Um ano choveu quase\ntodos os dias e meu pai ficou muito chateado.\n"
+            }
+          ],
+          "mission": {
+            "kind": "write",
+            "title": "Una lembrança en papel, en dos colores",
+            "minutes": 20,
+            "task": "Escribí a mano, en una hoja, un recuerdo de unas 8 a 10 líneas. Puede ser\nun verano, un cumpleaños o un viaje.\n\nDespués, con dos colores (o subrayado y círculo):\n\n- marcá todos los verbos en **imperfeito**,\n- marcá todos los verbos en **perfeito**.\n\nMirá si la historia tiene \"fondo\" (imperfeito) y \"eventos\" (perfeito). Si\ntodo quedó de un solo color, probablemente falte una de las dos partes.\n\nPor último, leelo en voz alta. Si querés, grabate.\n",
+            "checklist": [
+              "Usé al menos 3 verbos en imperfeito y 3 en perfeito.",
+              "Las 3ª personas del perfeito terminan en -ou / -eu / -iu.",
+              "Usé \"a gente\" al menos una vez.",
+              "No hay \"tenho + participio\" donde quería decir \"he hecho\".",
+              "Lo leí en voz alta."
+            ]
+          }
+        },
+        {
+          "id": "pt-planos",
+          "title": "O que você vai fazer? Planos e rotina",
+          "order": 3,
+          "level": "A2",
+          "summary": "Hablar de lo que vas a hacer con ir + infinitivo, como se habla en Brasil.",
+          "grammar": [
+            "futuro",
+            "presente"
+          ],
+          "explain": "En Brasil, el futuro de todos los días es **ir + infinitivo**, sin \"a\" en el\nmedio:\n\n- *Vou trabalhar amanhã.* — no ~~vou a trabalhar~~.\n- *A gente vai viajar em janeiro.*\n- *Você vai sair hoje?*\n\nEl futuro simples (*farei, viajarei*) existe, pero en una charla suena a\ndiscurso. Guardalo para leer.\n\nExpresiones de tiempo útiles:\n\n| Portugués | Español |\n|---|---|\n| hoje à noite | esta noche |\n| amanhã de manhã | mañana a la mañana |\n| no fim de semana | el finde |\n| semana que vem | la semana que viene |\n| daqui a dois dias | dentro de dos días |\n\nFijate en **à noite** (con acento grave: *a + a*) y **no fim de semana** (*em + o*).\n",
+          "practice": [
+            {
+              "type": "write",
+              "instruction": "Completá con ir en presente.",
+              "prompt": "Amanhã eu ___ trabalhar de casa.",
+              "answers": [
+                "vou"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con ir en presente.",
+              "prompt": "A gente ___ viajar em janeiro.",
+              "answers": [
+                "vai"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Completá con ir en presente.",
+              "prompt": "Meus pais ___ visitar a gente no domingo.",
+              "answers": [
+                "vão"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Traducí.",
+              "prompt": "Voy a cocinar esta noche.",
+              "answers": [
+                "Vou cozinhar hoje à noite",
+                "Eu vou cozinhar hoje à noite",
+                "Hoje à noite eu vou cozinhar",
+                "Hoje à noite vou cozinhar"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Traducí.",
+              "prompt": "¿Qué vas a hacer el finde?",
+              "answers": [
+                "O que você vai fazer no fim de semana",
+                "Que você vai fazer no fim de semana"
+              ]
+            },
+            {
+              "type": "write",
+              "instruction": "Pasalo a la forma hablada (ir + infinitivo).",
+              "prompt": "Eu farei isso amanhã.",
+              "answers": [
+                "Eu vou fazer isso amanhã",
+                "Vou fazer isso amanhã"
+              ]
+            },
+            {
+              "type": "open",
+              "instruction": "Escribí 3 o 4 cosas que vas a hacer la semana que viene.",
+              "prompt": "O que você vai fazer semana que vem?",
+              "model": "Na segunda eu vou começar um curso de inglês. Na quarta vou jantar com\nuns amigos. No fim de semana a gente vai pra casa da minha tia, e acho\nque vai chover.\n"
+            }
+          ],
+          "mission": {
+            "kind": "write",
+            "title": "Tu agenda en portugués",
+            "minutes": 10,
+            "task": "Durante una semana, escribí tu agenda (en papel, en la heladera, en un\npost-it) **en portugués**. Solo cosas cortas: *segunda: dentista às 15h*.\n\nCada noche, decí en voz alta lo que vas a hacer al día siguiente con\n*amanhã eu vou...* Son 30 segundos.\n",
+            "checklist": [
+              "Escribí la agenda en portugués al menos 5 días.",
+              "Usé los días de la semana en portugués (segunda, terça, quarta...).",
+              "Dije en voz alta el plan del día siguiente al menos 3 noches.",
+              "No usé \"vou a\" + infinitivo."
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

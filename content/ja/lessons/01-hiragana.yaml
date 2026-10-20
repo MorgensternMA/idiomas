@@ -1,0 +1,96 @@
+id: ja-hiragana-1
+title: "Hiragana con lápiz: あ, か, さ"
+order: 1
+level: inicial
+summary: Las primeras tres filas del hiragana y 10 palabras que ya podés leer.
+grammar: [hiragana]
+explain: |
+  Hoy son **15 caracteres**: las filas de あ, か y さ. Con eso ya podés leer
+  palabras reales.
+
+  | | a | i | u | e | o |
+  |---|---|---|---|---|---|
+  | — | あ | い | う | え | お |
+  | k | か | き | く | け | こ |
+  | s | さ | し | す | せ | そ |
+
+  La única sorpresa es **し**, que se lee *shi*, no *si*.
+
+  Con esas tres filas ya podés leer estas palabras:
+
+  | Hiragana | Lectura | Significado |
+  |---|---|---|
+  | あさ | asa | mañana (la parte del día) |
+  | いえ | ie | casa |
+  | うえ | ue | arriba |
+  | あおい | aoi | azul |
+  | かさ | kasa | paraguas |
+  | すし | sushi | sushi |
+  | いす | isu | silla |
+  | あき | aki | otoño |
+  | こえ | koe | voz |
+  | せかい | sekai | mundo |
+
+  **Truco:** no las memorices como dibujos sueltos. Leé cada palabra en voz
+  alta mientras la mirás; el sonido ayuda a fijar la forma.
+
+  Para tipear en el teléfono, agregá el teclado **japonés (kana o rōmaji)**
+  en los ajustes. Escribís *kasa* y te propone かさ.
+practice:
+  - type: write
+    instruction: Escribí cómo se lee (en rōmaji).
+    prompt: "かさ"
+    answers: [kasa]
+  - type: write
+    instruction: Escribí cómo se lee (en rōmaji).
+    prompt: "すし"
+    answers: [sushi]
+  - type: write
+    instruction: Escribí cómo se lee (en rōmaji).
+    prompt: "せかい"
+    answers: [sekai]
+  - type: write
+    instruction: Escribí cómo se lee (en rōmaji).
+    prompt: "あおい"
+    answers: [aoi]
+  - type: write
+    instruction: Escribí cómo se lee (en rōmaji).
+    prompt: "こえ"
+    answers: [koe]
+  - type: write
+    instruction: Escribilo en hiragana.
+    prompt: "isu (silla)"
+    answers: [いす]
+  - type: write
+    instruction: Escribilo en hiragana.
+    prompt: "aki (otoño)"
+    answers: [あき]
+  - type: write
+    instruction: Escribilo en hiragana.
+    prompt: "ue (arriba)"
+    answers: [うえ]
+  - type: write
+    instruction: ¿Qué carácter se lee "shi"?
+    prompt: "shi"
+    answers: [し]
+mission:
+  kind: write
+  title: Una hoja cuadriculada
+  minutes: 20
+  task: |
+    Con una hoja cuadriculada y un lápiz:
+
+    1. Buscá el **orden de trazos** de las 15 letras en una tabla de hiragana
+       (cualquier libro o diccionario lo tiene). Seguilo desde el principio:
+       arreglarlo después cuesta más.
+    2. Escribí cada carácter **5 veces**, diciendo el sonido en voz alta cada vez.
+    3. Tapá la tabla y escribí de memoria las 10 palabras de la lección
+       a partir de su lectura (*asa, ie, ue...*).
+    4. Corregí con la tabla. Las que fallaste, escribilas 5 veces más.
+
+    Guardá la hoja. Dentro de unos días, volvé a hacer el paso 3 sin mirar.
+  checklist:
+    - Seguí el orden de trazos.
+    - Dije el sonido en voz alta mientras escribía.
+    - Escribí de memoria al menos 7 de las 10 palabras.
+    - No confundí さ con き, ni こ con い.

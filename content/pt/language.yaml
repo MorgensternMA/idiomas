@@ -1,0 +1,16 @@
+code: pt
+name: Portugués
+native_name: Português (Brasil)
+intro: |
+  Portugués de Brasil. Para un hispanohablante, lo difícil no es entender
+  sino **no hablar portuñol**: acá vas a encontrar dónde se parece al
+  español y dónde te engaña.
+groups:
+  - id: presente
+    title: Presente
+  - id: passado
+    title: Pasado
+  - id: futuro
+    title: Futuro
+  - id: claves
+    title: Claves para hispanohablantes

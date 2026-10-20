@@ -1,0 +1,83 @@
+id: en-routine
+title: Tu rutina, en voz alta
+order: 1
+level: A1–A2
+summary: Present simple para contar un día normal sin trabarte con la -s.
+grammar: [present-simple, present-continuous]
+explain: |
+  Contar tu rutina es lo primero que te piden en cualquier charla
+  ("So, what do you do?"), y es donde más se nota si hablás o traducís.
+
+  Tres cosas para tener en la cabeza:
+
+  1. **He / she / it llevan -s.** *She works, he goes, it takes.* Es el error
+     número uno al hablar, aunque al escribir lo sepas.
+  2. **Las palabras de frecuencia van antes del verbo:** *I usually get up at
+     seven.* No *I get up usually*.
+  3. **Rutina ≠ ahora.** *I work in an office* (siempre) vs. *I'm working from
+     home this week* (por ahora).
+
+  Unas expresiones que suenan naturales:
+
+  - *I get up / I wake up* — me levanto / me despierto
+  - *I have breakfast / lunch / dinner* — no *I take breakfast*
+  - *I get to work at nine* — llego al trabajo
+  - *I work from home* — trabajo desde casa
+  - *After work, I usually...* — después del trabajo, por lo general...
+practice:
+  - type: write
+    instruction: Completá con el verbo en present simple.
+    prompt: "My sister ___ (work) from home on Fridays."
+    answers: [works]
+  - type: write
+    instruction: Completá con el verbo en present simple.
+    prompt: "He ___ (watch) the news every morning."
+    answers: [watches]
+  - type: write
+    instruction: Completá con do o does.
+    prompt: "___ your brother live near you?"
+    answers: [Does]
+  - type: write
+    instruction: Pasalo a negativo.
+    prompt: "She drinks coffee."
+    answers: ["She doesn't drink coffee", "She does not drink coffee"]
+    hint: "doesn't + verbo base"
+  - type: write
+    instruction: Poné la palabra en su lugar.
+    prompt: "I get up at seven. (usually)"
+    answers: ["I usually get up at seven"]
+  - type: write
+    instruction: Ahora o siempre. Completá con la forma correcta de "cook".
+    prompt: "I can't talk right now, I ___ dinner."
+    answers: ["'m cooking", "am cooking", "m cooking"]
+  - type: write
+    instruction: Traducí.
+    prompt: "Por lo general desayuno en casa."
+    answers: ["I usually have breakfast at home", "I usually eat breakfast at home"]
+    note: "Desayunar es *have breakfast*. *Take breakfast* no se dice."
+  - type: open
+    instruction: Escribí 3 o 4 frases sobre tu mañana de un día de semana.
+    prompt: "Describe a normal weekday morning."
+    model: |
+      I usually wake up at seven, but I get up at seven fifteen.
+      I have breakfast at home, just coffee and toast.
+      I start work at nine. On Fridays I work from home, so I don't take the bus.
+mission:
+  kind: speak
+  title: Un minuto sobre tu día
+  minutes: 10
+  task: |
+    Grabate (con el grabador del teléfono, o con la app de notas de voz)
+    hablando **un minuto** sobre un día normal de semana. No lo escribas antes:
+    la idea es practicar hablar, no leer.
+
+    Puede servirte esta estructura: *mornings → work → after work → evenings*.
+
+    Después escuchá la grabación una vez, revisá la lista y **grabate de nuevo**.
+    La segunda versión casi siempre sale mejor; compará las dos.
+  checklist:
+    - Usé la -s con he / she cuando hablé de otra persona.
+    - Usé al menos tres palabras de frecuencia (usually, sometimes, never...).
+    - Dije "have breakfast / lunch / dinner", no "take".
+    - Hablé el minuto completo, aunque hiciera pausas.
+    - La segunda grabación fue más fluida que la primera.

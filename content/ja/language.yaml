@@ -1,0 +1,17 @@
+code: ja
+name: Japonés
+native_name: 日本語
+intro: |
+  Arrancamos de cero. El japonés no se organiza en "tiempos" como el
+  español: tiene **no-pasado** y **pasado**, y lo demás se resuelve con
+  formas del verbo y con el nivel de cortesía. Por eso la gramática está
+  agrupada por formas.
+groups:
+  - id: escritura
+    title: Escritura
+  - id: estructura
+    title: Estructura básica
+  - id: masu
+    title: Forma cortés (ます)
+  - id: formas
+    title: Otras formas

@@ -1,0 +1,61 @@
+id: en-plans
+title: Planes para el finde
+order: 3
+level: A2
+summary: Elegir entre will, going to y present continuous según qué tan decidido está.
+grammar: [future, present-continuous]
+explain: |
+  La pregunta más común de un lunes o un viernes: *What are you doing this
+  weekend?* Respondela según cuánto lo tengas decidido:
+
+  - **Arreglado, con hora o con alguien:** present continuous. *I'm having lunch with my parents on Sunday.*
+  - **Decidido, pero sin agenda:** going to. *I'm going to clean the house.*
+  - **Lo decidís mientras hablás, o no estás seguro:** will. *Maybe I'll go to the cinema.* / *I think I'll stay home.*
+
+  Para sonar natural, mezclá las tres en la misma respuesta:
+
+  > *On Saturday I'm meeting some friends for a barbecue. On Sunday I'm going
+  > to rest. Maybe I'll watch a movie.*
+practice:
+  - type: write
+    instruction: Plan arreglado. Completá con present continuous.
+    prompt: "I ___ (meet) Ana at six tomorrow."
+    answers: ["'m meeting", "am meeting", "m meeting"]
+  - type: write
+    instruction: Decisión en el momento. Completá con will.
+    prompt: "The phone is ringing. — I ___ (get) it!"
+    answers: ["'ll get", "will get", "ll get"]
+  - type: write
+    instruction: Hay evidencia ahora. Completá con going to.
+    prompt: "Look at the sky. It ___ (rain)."
+    answers: ["'s going to rain", "is going to rain", "s going to rain"]
+  - type: write
+    instruction: Traducí.
+    prompt: "¿Qué hacés este finde?"
+    answers: ["What are you doing this weekend", "What are you up to this weekend"]
+  - type: write
+    instruction: Pasalo a negativo.
+    prompt: "I will tell her."
+    answers: ["I won't tell her", "I will not tell her"]
+  - type: open
+    instruction: Contá tus planes para el próximo fin de semana usando las tres formas.
+    prompt: "What are you doing this weekend?"
+    model: |
+      On Saturday morning I'm playing football with my cousins.
+      In the afternoon I'm going to buy a present for my sister.
+      I don't have plans for Sunday. I think I'll just stay home and read.
+mission:
+  kind: speak
+  title: La respuesta del lunes
+  minutes: 10
+  task: |
+    El viernes, antes del finde, grabate respondiendo *What are you doing this
+    weekend?* en unos 30 segundos.
+
+    El lunes, grabate respondiendo *What did you do at the weekend?* (past simple).
+
+    Escuchá las dos grabaciones seguidas: ¿se cumplió lo que habías planeado?
+  checklist:
+    - En la del viernes usé al menos dos formas de futuro distintas.
+    - En la del lunes usé past simple con los irregulares bien (went, had, saw...).
+    - No leí, hablé de memoria.

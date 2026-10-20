@@ -1,0 +1,75 @@
+id: pt-planos
+title: "O que você vai fazer? Planos e rotina"
+order: 3
+level: A2
+summary: Hablar de lo que vas a hacer con ir + infinitivo, como se habla en Brasil.
+grammar: [futuro, presente]
+explain: |
+  En Brasil, el futuro de todos los días es **ir + infinitivo**, sin "a" en el
+  medio:
+
+  - *Vou trabalhar amanhã.* — no ~~vou a trabalhar~~.
+  - *A gente vai viajar em janeiro.*
+  - *Você vai sair hoje?*
+
+  El futuro simples (*farei, viajarei*) existe, pero en una charla suena a
+  discurso. Guardalo para leer.
+
+  Expresiones de tiempo útiles:
+
+  | Portugués | Español |
+  |---|---|
+  | hoje à noite | esta noche |
+  | amanhã de manhã | mañana a la mañana |
+  | no fim de semana | el finde |
+  | semana que vem | la semana que viene |
+  | daqui a dois dias | dentro de dos días |
+
+  Fijate en **à noite** (con acento grave: *a + a*) y **no fim de semana** (*em + o*).
+practice:
+  - type: write
+    instruction: Completá con ir en presente.
+    prompt: "Amanhã eu ___ trabalhar de casa."
+    answers: [vou]
+  - type: write
+    instruction: Completá con ir en presente.
+    prompt: "A gente ___ viajar em janeiro."
+    answers: [vai]
+  - type: write
+    instruction: Completá con ir en presente.
+    prompt: "Meus pais ___ visitar a gente no domingo."
+    answers: [vão]
+  - type: write
+    instruction: Traducí.
+    prompt: "Voy a cocinar esta noche."
+    answers: ["Vou cozinhar hoje à noite", "Eu vou cozinhar hoje à noite", "Hoje à noite eu vou cozinhar", "Hoje à noite vou cozinhar"]
+  - type: write
+    instruction: Traducí.
+    prompt: "¿Qué vas a hacer el finde?"
+    answers: ["O que você vai fazer no fim de semana", "Que você vai fazer no fim de semana"]
+  - type: write
+    instruction: Pasalo a la forma hablada (ir + infinitivo).
+    prompt: "Eu farei isso amanhã."
+    answers: ["Eu vou fazer isso amanhã", "Vou fazer isso amanhã"]
+  - type: open
+    instruction: Escribí 3 o 4 cosas que vas a hacer la semana que viene.
+    prompt: "O que você vai fazer semana que vem?"
+    model: |
+      Na segunda eu vou começar um curso de inglês. Na quarta vou jantar com
+      uns amigos. No fim de semana a gente vai pra casa da minha tia, e acho
+      que vai chover.
+mission:
+  kind: write
+  title: Tu agenda en portugués
+  minutes: 10
+  task: |
+    Durante una semana, escribí tu agenda (en papel, en la heladera, en un
+    post-it) **en portugués**. Solo cosas cortas: *segunda: dentista às 15h*.
+
+    Cada noche, decí en voz alta lo que vas a hacer al día siguiente con
+    *amanhã eu vou...* Son 30 segundos.
+  checklist:
+    - Escribí la agenda en portugués al menos 5 días.
+    - Usé los días de la semana en portugués (segunda, terça, quarta...).
+    - Dije en voz alta el plan del día siguiente al menos 3 noches.
+    - No usé "vou a" + infinitivo.

@@ -1,0 +1,86 @@
+id: pt-lembranca
+title: "Contar uma lembrança: perfeito vs. imperfeito"
+order: 2
+level: A2
+summary: Contar algo de tu infancia y usar los dos pasados como en español.
+grammar: [preterito-perfeito, preterito-imperfeito]
+explain: |
+  Buena noticia: la diferencia entre **perfeito** y **imperfeito** es casi la
+  misma que entre "comí" y "comía". Si en español usarías imperfecto, en
+  portugués también.
+
+  > *Quando eu **era** criança, a gente **passava** o verão na casa da minha
+  > avó. Ela **morava** perto do rio. Um dia, meu primo **caiu** na água e
+  > todo mundo **ficou** desesperado.*
+
+  - **era, passava, morava:** el fondo de la historia y los hábitos (imperfeito).
+  - **caiu, ficou:** lo que pasó en un momento (perfeito).
+
+  Lo que sí cambia:
+
+  - **Terminaciones del perfeito en 3ª persona:** *-ou, -eu, -iu* (*falou,
+    comeu, caiu*). Es lo que más se mezcla con el español.
+  - **"Tenho feito" no es "he hecho".** Significa "vengo haciendo". Para
+    "¿Ya comiste?" se dice *Você já comeu?*
+  - **A gente + 3ª singular:** *a gente passava*, *a gente foi*. Suena mucho
+    más natural que *nós* en una charla.
+practice:
+  - type: write
+    instruction: Completá con perfeito o imperfeito.
+    prompt: "Quando eu era criança, ___ (morar) no interior."
+    answers: [morava]
+  - type: write
+    instruction: Completá con perfeito o imperfeito.
+    prompt: "Ontem eu ___ (ir) ao cinema."
+    answers: [fui]
+  - type: write
+    instruction: Completá con perfeito o imperfeito.
+    prompt: "Todo verão a gente ___ (viajar) para a praia."
+    answers: [viajava]
+  - type: write
+    instruction: Completá con perfeito o imperfeito.
+    prompt: "Ele ___ (fazer) aniversário semana passada."
+    answers: [fez]
+  - type: write
+    instruction: Completá con perfeito o imperfeito.
+    prompt: "Meu avô ___ (ter) uma oficina mecânica."
+    answers: [tinha]
+    note: "*Oficina* es taller: acá está bien usada."
+  - type: write
+    instruction: Traducí.
+    prompt: "¿Ya comiste?"
+    answers: ["Você já comeu", "Já comeu"]
+  - type: write
+    instruction: Traducí.
+    prompt: "Vengo trabajando mucho."
+    answers: ["Tenho trabalhado muito", "Eu tenho trabalhado muito"]
+  - type: open
+    instruction: Escribí 3 o 4 frases sobre un verano de tu infancia, mezclando los dos pasados.
+    prompt: "Um verão da sua infância."
+    model: |
+      Quando eu tinha dez anos, a gente ia todo verão para Mar del Plata.
+      A gente alugava um apartamento perto da praia. Um ano choveu quase
+      todos os dias e meu pai ficou muito chateado.
+mission:
+  kind: write
+  title: Una lembrança en papel, en dos colores
+  minutes: 20
+  task: |
+    Escribí a mano, en una hoja, un recuerdo de unas 8 a 10 líneas. Puede ser
+    un verano, un cumpleaños o un viaje.
+
+    Después, con dos colores (o subrayado y círculo):
+
+    - marcá todos los verbos en **imperfeito**,
+    - marcá todos los verbos en **perfeito**.
+
+    Mirá si la historia tiene "fondo" (imperfeito) y "eventos" (perfeito). Si
+    todo quedó de un solo color, probablemente falte una de las dos partes.
+
+    Por último, leelo en voz alta. Si querés, grabate.
+  checklist:
+    - Usé al menos 3 verbos en imperfeito y 3 en perfeito.
+    - Las 3ª personas del perfeito terminan en -ou / -eu / -iu.
+    - Usé "a gente" al menos una vez.
+    - No hay "tenho + participio" donde quería decir "he hecho".
+    - Lo leí en voz alta.

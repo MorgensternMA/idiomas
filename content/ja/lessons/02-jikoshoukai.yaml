@@ -1,0 +1,93 @@
+id: ja-jikoshoukai
+title: "Presentarte: じこしょうかい"
+order: 2
+level: inicial
+summary: La presentación clásica japonesa, frase por frase, y qué significa cada parte.
+grammar: [desu, hiragana]
+explain: |
+  En Japón hay una fórmula de presentación (**じこしょうかい**, *jikoshoukai*)
+  que se usa casi igual en el trabajo, en clase o en un intercambio de
+  idiomas. Aprendela entera: te va a servir tal cual.
+
+  > はじめまして。
+  > *Hajimemashite.* — Mucho gusto (literalmente "es la primera vez").
+  >
+  > ソフィアです。
+  > *Sofia desu.* — Soy Sofía.
+  >
+  > アルゼンチンから きました。
+  > *Aruzenchin kara kimashita.* — Vengo de Argentina.
+  >
+  > エンジニアです。
+  > *Enjinia desu.* — Soy ingeniera.
+  >
+  > よろしく おねがいします。
+  > *Yoroshiku onegaishimasu.* — Encantada / cuento con vos.
+
+  Algunas notas:
+
+  - **Tu nombre va en katakana** (como ソフィア o アルゼンチン), porque es una
+    palabra extranjera. Todavía no aprendiste katakana: por ahora copiá tu
+    nombre de algún conversor y vamos a llegar ahí.
+  - **No digas わたしは todo el tiempo.** Ya se sabe que hablás de vos, así que
+    *ソフィアです* alcanza. Repetir *watashi wa* suena a libro de texto.
+  - **〜から きました** significa "vine de". Es la forma fija de decir de
+    dónde sos. きました es el pasado de きます (venir).
+  - **よろしく おねがいします** no tiene traducción directa; es una forma de
+    pedir buena disposición para la relación que empieza. No se omite.
+  - Al decirlo, una leve inclinación de cabeza en はじめまして y en よろしく.
+practice:
+  - type: write
+    instruction: Escribí en hiragana.
+    prompt: "Soy estudiante. (estudiante = がくせい)"
+    answers: [がくせいです, わたしはがくせいです, 学生です, 私は学生です]
+  - type: write
+    instruction: Pasalo a negativo.
+    prompt: "がくせいです。"
+    answers: [がくせいじゃありません, がくせいではありません]
+  - type: write
+    instruction: Pasalo a pasado.
+    prompt: "がくせいです。"
+    answers: [がくせいでした]
+  - type: write
+    instruction: Convertilo en pregunta.
+    prompt: "がくせいです。"
+    answers: [がくせいですか]
+  - type: write
+    instruction: ¿Cómo se lee は cuando es partícula?
+    prompt: "わたしは"
+    answers: [watashi wa, watashiwa]
+  - type: write
+    instruction: Escribí la frase que va al principio de la presentación.
+    prompt: "Mucho gusto (la primera vez)."
+    answers: [はじめまして, hajimemashite]
+  - type: write
+    instruction: Escribí la frase que cierra la presentación.
+    prompt: "Encantado/a, cuento con vos."
+    answers: [よろしくおねがいします, よろしくお願いします, yoroshiku onegaishimasu]
+  - type: open
+    instruction: Armá tu じこしょうかい completa. Tu nombre y país pueden ir en rōmaji si todavía no sabés katakana.
+    prompt: "じこしょうかい"
+    model: |
+      はじめまして。
+      (tu nombre)です。
+      アルゼンチンから きました。
+      よろしく おねがいします。
+mission:
+  kind: speak
+  title: Presentate frente al espejo
+  minutes: 10
+  task: |
+    1. Escribí tu じこしょうかい **a mano** en un papel, en hiragana (tu
+       nombre y Argentina pueden ir en rōmaji por ahora).
+    2. Leela en voz alta 5 veces. Después, 3 veces sin mirar.
+    3. Grabate diciéndola sin mirar, con la inclinación de cabeza incluida
+       (sí, aunque nadie te vea: el cuerpo ayuda a memorizar).
+    4. Escuchate y fijate en el ritmo. En japonés cada sílaba dura más o
+       menos lo mismo: *ha-ji-me-ma-shi-te*, sin acentos fuertes como en español.
+  checklist:
+    - La escribí a mano en hiragana.
+    - La dije entera sin mirar.
+    - Leí は como "wa".
+    - Las sílabas me salieron parejas, sin acentuar como en español.
+    - Pronuncié おねがい con sus cuatro sílabas (o-ne-ga-i).

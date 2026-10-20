@@ -1,0 +1,89 @@
+id: en-perfect
+title: "¿Ya lo hiciste? Present perfect vs. past simple"
+order: 2
+level: A2
+summary: Dejar de usar past simple para todo, que es lo que nos sale a los rioplatenses.
+grammar: [present-perfect, past-simple]
+explain: |
+  En castellano rioplatense decimos "ya comí", "nunca fui a Japón", "vivo acá
+  desde 2020". En inglés esas tres frases van en **present perfect**, no en past
+  simple ni en presente.
+
+  La pregunta que te tenés que hacer:
+
+  > ¿Estoy diciendo **cuándo** pasó, o estoy hablando de **cómo está ahora**?
+
+  - Si decís cuándo (*yesterday, last year, in 2019, two days ago*) → **past simple**.
+  - Si no hay un momento terminado, y lo que importa es el resultado o la experiencia → **present perfect**.
+
+  | Rioplatense | Inglés |
+  |---|---|
+  | Ya comí. | *I've already eaten.* |
+  | Nunca fui a Japón. | *I've never been to Japan.* |
+  | Vivo acá desde 2020. | *I've lived here since 2020.* |
+  | Fui a Japón en 2019. | *I went to Japan in 2019.* |
+
+  En una charla suele empezar en present perfect y seguir en past simple:
+
+  > *Have you ever been to Brazil?* — *Yes, I've been twice. I **went** to
+  > Florianópolis last summer.*
+
+  Ahí la primera frase es una experiencia y, cuando aparece el "cuándo", se pasa al pasado.
+practice:
+  - type: write
+    instruction: Completá con past simple o present perfect.
+    prompt: "I ___ (see) that movie last week."
+    answers: [saw]
+  - type: write
+    instruction: Completá con past simple o present perfect.
+    prompt: "She ___ (live) in Rosario since 2019."
+    answers: ["has lived", "'s lived", "s lived"]
+  - type: write
+    instruction: Completá con past simple o present perfect.
+    prompt: "We ___ (finish) the project two days ago."
+    answers: [finished]
+  - type: write
+    instruction: Completá con la forma correcta.
+    prompt: "I ___ (be / never) to Japan."
+    answers: ["have never been", "'ve never been", "ve never been"]
+  - type: write
+    instruction: Traducí.
+    prompt: "¿Alguna vez probaste comida japonesa?"
+    answers: ["Have you ever tried Japanese food", "Have you ever eaten Japanese food"]
+  - type: write
+    instruction: Traducí. (está terminado, importa ahora)
+    prompt: "Ya pagué."
+    answers: ["I've already paid", "I have already paid", "I've paid already", "I have paid already"]
+  - type: write
+    instruction: Traducí.
+    prompt: "Trabajo acá hace cinco años."
+    answers: ["I've worked here for five years", "I have worked here for five years", "I've been working here for five years", "I have been working here for five years"]
+    note: "\"Hace X que\" con algo que sigue → present perfect + *for*. *I work here since five years* es un error clásico."
+  - type: write
+    instruction: Completá con been o gone.
+    prompt: "Martín isn't here. He's ___ to the supermarket."
+    answers: [gone]
+    hint: "¿Volvió o todavía está allá?"
+  - type: open
+    instruction: Escribí una mini charla. Una pregunta con ever y la respuesta, que siga en past simple.
+    prompt: "Have you ever...?"
+    model: |
+      Have you ever been to a concert abroad?
+      Yes, I have. I saw Radiohead in Santiago in 2018. It was amazing.
+mission:
+  kind: write
+  title: Dos columnas en papel
+  minutes: 15
+  task: |
+    En una hoja, hacé dos columnas:
+
+    - **This year I've...**: 5 cosas que hiciste este año (el año no terminó, así que va present perfect). *This year I've started Japanese.*
+    - **Last weekend I...**: 5 cosas del fin de semana pasado (momento terminado: past simple). *Last weekend I went to a friend's house.*
+
+    Después leé las 10 en voz alta. Elegí una de cada columna y armá una
+    mini historia que pase de una a la otra, como en el ejemplo de Brazil de la lección.
+  checklist:
+    - En la primera columna usé have / has + participio.
+    - En la segunda no usé have.
+    - Usé participios irregulares bien (been, seen, done, gone...).
+    - Leí todo en voz alta al menos una vez.

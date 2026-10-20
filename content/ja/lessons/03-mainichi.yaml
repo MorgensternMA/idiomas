@@ -1,0 +1,80 @@
+id: ja-mainichi
+title: "まいにち: tu día con ます"
+order: 3
+level: inicial
+summary: Contar tu rutina en japonés con verbos en ます y las partículas を, に, で.
+grammar: [masu, mashita]
+explain: |
+  Con ます y tres partículas ya podés contar un día entero.
+
+  > まいにち しちじに おきます。
+  > *Mainichi shichiji ni okimasu.* — Todos los días me levanto a las siete.
+  >
+  > うちで あさごはんを たべます。
+  > *Uchi de asagohan o tabemasu.* — Desayuno en casa.
+  >
+  > くじに しごとへ いきます。
+  > *Kuji ni shigoto e ikimasu.* — A las nueve voy al trabajo.
+
+  Las partículas:
+
+  - **に**: hora concreta (しちじ**に**) o destino.
+  - **で**: dónde hacés la acción (うち**で**).
+  - **を** (se lee *o*): el objeto (あさごはん**を**).
+  - **へ** (se lee *e*): hacia dónde vas.
+
+  Las horas: いちじ (1), にじ (2), さんじ (3), **よじ** (4), ごじ (5), ろくじ (6),
+  **しちじ** (7), はちじ (8), **くじ** (9), じゅうじ (10). Las marcadas en negrita
+  son irregulares: hay que aprenderlas aparte.
+
+  Para contar lo que hiciste **ayer** (きのう), pasá todo a ました.
+practice:
+  - type: write
+    instruction: Completá con la partícula.
+    prompt: "しちじ ___ おきます。"
+    answers: [に]
+  - type: write
+    instruction: Completá con la partícula.
+    prompt: "うち ___ たべます。"
+    answers: [で]
+  - type: write
+    instruction: Completá con la partícula.
+    prompt: "コーヒー ___ のみます。"
+    answers: [を]
+  - type: write
+    instruction: Pasalo a negativo.
+    prompt: "あさごはんを たべます。"
+    answers: [あさごはんをたべません]
+  - type: write
+    instruction: Pasalo a pasado (ayer).
+    prompt: "くじに ねます。"
+    answers: [くじにねました]
+  - type: write
+    instruction: ¿Cómo se dice "a las cuatro"? (ojo, es irregular)
+    prompt: "4:00"
+    answers: [よじ, よじに, yoji, yoji ni]
+  - type: open
+    instruction: Escribí 3 frases sobre tu mañana, en hiragana (o rōmaji si todavía no te sale).
+    prompt: "まいにち..."
+    model: |
+      まいにち ろくじに おきます。
+      コーヒーを のみます。
+      はちじに しごとへ いきます。
+mission:
+  kind: speak
+  title: Narrá tu mañana en tiempo real
+  minutes: 5
+  task: |
+    Mañana, mientras hacés tu rutina, **decí en voz alta en japonés** cada cosa
+    que hacés, aunque sea en voz baja:
+
+    - al levantarte: *おきます*
+    - al tomar algo: *コーヒーを のみます*
+    - al desayunar: *あさごはんを たべます*
+    - al salir: *しごとへ いきます*
+
+    A la noche, escribí en papel 3 frases sobre lo que hiciste, en pasado (ました).
+  checklist:
+    - Dije al menos 4 acciones en voz alta durante la mañana.
+    - Usé las partículas に, で y を.
+    - A la noche escribí 3 frases en ました.

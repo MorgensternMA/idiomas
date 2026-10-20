@@ -1,0 +1,15 @@
+code: en
+name: Inglés
+native_name: English
+intro: |
+  Ya entendés bastante: el objetivo acá es **producir**. Cada lección termina
+  con algo para decir o escribir fuera del teléfono.
+groups:
+  - id: presente
+    title: Presente
+  - id: pasado
+    title: Pasado
+  - id: perfecto
+    title: Tiempos perfectos
+  - id: futuro
+    title: Futuro

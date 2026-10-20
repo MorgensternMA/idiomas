@@ -1,0 +1,88 @@
+id: pt-apresentar
+title: Se apresentar de verdade
+order: 1
+level: A1–A2
+summary: Presentarte en portugués sin traducir del español palabra por palabra.
+grammar: [presente, trampas]
+explain: |
+  Vas a entender casi todo lo que te digan. El desafío es **responder** sin
+  armar la frase en español y "portuguesizarla".
+
+  Así suena una presentación natural en Brasil:
+
+  > *Oi, tudo bem? Eu me chamo Lucas, mas pode me chamar de Lu. Sou
+  > argentino, de Buenos Aires. Trabalho com tecnologia, sou desenvolvedor.
+  > Tenho trinta e dois anos.*
+
+  Fijate en lo siguiente:
+
+  - **Me chamo / Meu nome é.** Las dos están bien. *Me chamo* va con el
+    pronombre adelante, como se habla en Brasil.
+  - **Sou de... / Moro em...:** *Sou de Córdoba, mas moro em Buenos Aires.*
+    Ojo: *em + o* = *no*, y queda *Moro no Brasil*.
+  - **Trabalho com...:** es la forma más común de decir a qué área te
+    dedicás. *Trabalho com marketing.*
+  - **Tenho X anos,** con *ter*, como en español.
+  - **Tudo bem? / Tudo bom?** Es el "¿todo bien?" de siempre. Se responde
+    *Tudo, e você?*
+
+  En la 3ª persona plural (*eles falam, eles comem*) la terminación es nasal.
+  No es "falan"; la *m* final casi no suena, pero nasaliza la vocal.
+practice:
+  - type: write
+    instruction: Completá con el verbo en presente.
+    prompt: "Eu ___ (morar) em Buenos Aires."
+    answers: [moro]
+  - type: write
+    instruction: Completá con el verbo en presente.
+    prompt: "Nós ___ (ser) argentinos."
+    answers: [somos]
+  - type: write
+    instruction: Completá con el verbo en presente.
+    prompt: "Ela ___ (ter) dois irmãos."
+    answers: [tem]
+  - type: write
+    instruction: Completá con el verbo en presente.
+    prompt: "Eu ___ (fazer) academia três vezes por semana."
+    answers: [faço]
+    note: "*Fazer academia* = ir al gimnasio."
+  - type: write
+    instruction: Completá con la contracción correcta (em + artículo).
+    prompt: "Meu irmão mora ___ Espanha."
+    answers: [na]
+  - type: write
+    instruction: Traducí.
+    prompt: "Trabajo en una empresa de software."
+    answers: ["Trabalho numa empresa de software", "Trabalho em uma empresa de software", "Eu trabalho numa empresa de software", "Eu trabalho em uma empresa de software"]
+  - type: write
+    instruction: Traducí. (cuidado con el falso amigo)
+    prompt: "Mi apellido es García."
+    answers: ["Meu sobrenome é García", "O meu sobrenome é García", "Meu sobrenome é Garcia"]
+    note: "*Apelido* en portugués es apodo."
+  - type: open
+    instruction: Presentate en 4 o 5 frases, como si fuera la primera vez que hablás con alguien en un call.
+    prompt: "Se apresente."
+    model: |
+      Oi, tudo bem? Me chamo Sofia. Sou argentina, de Rosario, mas moro em
+      Buenos Aires há cinco anos. Trabalho com design. Nas horas livres eu
+      gosto de cozinhar e estou aprendendo japonês.
+mission:
+  kind: speak
+  title: La presentación de un minuto
+  minutes: 10
+  task: |
+    1. Grabate presentándote en portugués **sin leer**. Nombre, de dónde sos,
+       dónde vivís, a qué te dedicás y algo que te guste hacer.
+    2. Escuchalo y anotá en un papel las palabras donde dudaste o que dijiste
+       en español.
+    3. Buscá esas palabras (en la sección de gramática o en un diccionario) y
+       grabate de nuevo.
+
+    Para un extra: buscá un video corto de alguien de Brasil presentándose
+    (un vlog, una entrevista) y anotá 3 expresiones que use y vos no.
+  checklist:
+    - No leí. Hablé de memoria aunque me trabara.
+    - Usé las contracciones (no, na, da, do) y no "em o" o "de a".
+    - Pronuncié las terminaciones -am / -em nasales.
+    - No se me coló ninguna palabra en español.
+    - Anoté al menos 2 palabras para revisar.
